@@ -1,0 +1,6 @@
+{
+  "name": "BarberHub",
+  "description": "Plataforma integral para barberías, citas, pagos en COP y roles para Clientes, Barberos y Dueños.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
